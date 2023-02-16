@@ -12,6 +12,7 @@
     <head>
         <!-- من یک کامنتم -->
         <!-- به کاربر نمایش داده نمیشه head تگ  -->
+        <title>hello it's me</title>
 
 
     </head>
