@@ -72,8 +72,17 @@
 <br/>
 یک  قسمتی ایتالیک و بولد شده
 <br/>
+
+hr(Horizontal Rule) & br(Line Break element)
+
+
 <br/>
+تگ اولی برای جدا کردن با خط افقی و تگ دوم برای رفتن به خط بعد 
 <br/>
+
+![4](https://user-images.githubusercontent.com/102425717/219349161-5340cc58-b055-4a42-89c3-8ebb27da2a9d.JPG)
+
+
 <br/>
 <br/>
 <br/>
