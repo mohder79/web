@@ -84,6 +84,56 @@ hr(Horizontal Rule) & br(Line Break element)
 
 
 <br/>
+#img
+<br/>
+
+```
+
+<!DOCTYPE html>
+<html>
+
+<body>
+    <h1>mohder</h1>
+    <p>Lorem ipsum, <em> dolor sit amet consectetur </em> adipisicing elit. <strong>Reprehenderit</strong> Reprehenderit
+        eum nam perferendis laudantium error eaque veniam possimus nesciunt ipsum. Molestias unde velit adipisci alias
+        ea, earum iusto assumenda officia modi?</p>
+    <hr>
+    <img src=".//خودم.JPG" alt="">
+
+</body>
+
+</html>
+
+```
+<br/>
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<br/>
 <br/>
 <br/>
 <br/>
