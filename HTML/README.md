@@ -107,12 +107,32 @@ hr(Horizontal Rule) & br(Line Break element)
 ```
 <br/>
 <br/>
-<br/>
+
+# list
 
 <br/>
+
+![5](https://user-images.githubusercontent.com/102425717/221579017-6832d6cc-5eff-484d-8d1c-60ff38913926.JPG)
+
 <br/>
+
+# link
+
+
 <br/>
+
+![7](https://user-images.githubusercontent.com/102425717/221581896-55461300-5f52-4c37-8c9f-03da861757b2.JPG)
+
+
 <br/>
+
+# table
+
+<br/>
+
+![8](https://user-images.githubusercontent.com/102425717/221584160-727febfd-2e43-4947-9245-692f0906c203.JPG)
+
+
 <br/>
 
 <br/>
